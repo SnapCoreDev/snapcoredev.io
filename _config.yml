@@ -1,7 +1,7 @@
 title: "SnapCore"
 description: "Software-first startup with a bioinformatics research wing"
 url: "https://snapcoredev.io"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-paginate
@@ -13,5 +13,4 @@ plugins:
 author:
   name: "SnapCore Team"
   bio: "Building tools that bridge software and bioinformatics."
-remote_theme: "mmistakes/minimal-mistakes"
 
