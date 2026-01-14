@@ -13,3 +13,5 @@ plugins:
 author:
   name: "SnapCore Team"
   bio: "Building tools that bridge software and bioinformatics."
+remote_theme: "mmistakes/minimal-mistakes"
+
